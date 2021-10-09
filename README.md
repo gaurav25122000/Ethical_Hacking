@@ -11,3 +11,8 @@ Ethical hacking and ethical hacker are terms used to describe hacking performed 
 - Injection
 - Net Scanning
 - Sniffing
+
+```
+This is an active repository and I will keep pushing new hacking tools to this
+Thanks :)
+```
